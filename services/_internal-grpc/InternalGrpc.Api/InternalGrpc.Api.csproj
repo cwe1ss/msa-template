@@ -10,7 +10,7 @@
     <PackageReference Include="Grpc.AspNetCore.Server.Reflection" Version="2.51.0" />
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
     <PackageReference Include="Microsoft.AspNetCore.Grpc.JsonTranscoding" Version="7.0.1" />
-    <PackageReference Include="Microsoft.AspNetCore.Grpc.Swagger" Version="0.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Grpc.Swagger" Version="0.3.2" />
     <PackageReference Include="Microsoft.NET.Build.Containers" Version="0.2.7" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
